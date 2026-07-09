@@ -1,111 +1,146 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Roshan Kumar E
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=AI+%26+Data+Science+Student;Full+Stack+Developer;Python+%7C+Java+%7C+C%2B%2B;Machine+Learning+Enthusiast;Always+Learning+New+Things+🚀" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A1A,50:F5C518,100:1A1A1A&height=200&section=header&text=ROSHAN%20KUMAR%20E&fontSize=48&fontColor=FFFFFF&animation=twinkling&fontAlignY=40&desc=AI%20%26%20Data%20Science%20%7C%20Full%20Stack%20Developer&descAlignY=62&descSize=18&descColor=F5C518" width="100%"/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=1200&color=F5C518&center=true&vCenter=true&width=650&lines=Building+AI+that+solves+real+problems;Full+Stack+Developer+%7C+Python+%C2%B7+Java+%C2%B7+C%2B%2B;Machine+Learning+%2B+Deep+Learning;Currently+Shipping+%F0%9F%9A%80" />
 
-## 🚀 About Me
+<br/>
 
-- 🎓 B.Tech AI & Data Science
-- 💻 Passionate Full Stack Developer
-- 🤖 Interested in AI, ML & Deep Learning
-- 🌱 Currently learning Python, Java, C++, React & Node.js
-- 🎯 Goal: Build AI products that solve real-world problems
+<a href="https://www.linkedin.com/in/roshan-e-88b6392a1/"><img src="https://img.shields.io/badge/LinkedIn-Connect-F5C518?style=for-the-badge&logo=linkedin&logoColor=1A1A1A"/></a>
+<a href="mailto:roshanmohana980@gmail.com"><img src="https://img.shields.io/badge/Email-Message%20Me-F5C518?style=for-the-badge&logo=gmail&logoColor=1A1A1A"/></a>
+<img src="https://komarev.com/ghpvc/?username=roshankumar161161&color=F5C518&style=for-the-badge&label=PROFILE+VIEWS"/>
 
----
+</div>
 
-## 🛠 Tech Stack
+<br/>
 
-<p align="center">
+## ⚡ Quick Facts
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,react,nodejs,tailwind,mysql,git,github,vscode"/>
+```yaml
+name: "Roshan Kumar E"
+role: "Full Stack Developer & AI/DS Student"
+degree: "B.Tech - Artificial Intelligence & Data Science"
+focus: ["Machine Learning", "Deep Learning", "Full Stack Dev"]
+current_stack: ["Python", "Java", "C++", "React", "Node.js"]
+mission: "Building AI products that solve real-world problems"
+fun_fact: "Debugs better at 2 AM than 2 PM ☕"
+```
 
-</p>
+<br/>
 
----
+## 🧠 Tech Arsenal
 
-## 📊 GitHub Stats
+<table align="center">
+<tr>
+<td align="center" width="200"><b>Languages</b></td>
+<td>
 
-<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css&theme=dark"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=roshankumar161161&show_icons=true&theme=tokyonight"/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>Frontend</b></td>
+<td>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshankumar161161&layout=compact&theme=tokyonight"/>
+<img src="https://skillicons.dev/icons?i=react,tailwind,html,css&theme=dark"/>
 
-</p>
+</td>
+</tr>
+<tr>
+<td align="center"><b>Backend & DB</b></td>
+<td>
 
----
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb&theme=dark"/>
 
-## 🔥 GitHub Streak
+</td>
+</tr>
+<tr>
+<td align="center"><b>AI / ML</b></td>
+<td>
 
-<p align="center">
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn&theme=dark"/>
 
-<img src="https://streak-stats.demolab.com?user=roshankumar161161&theme=tokyonight"/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>Tools</b></td>
+<td>
 
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman&theme=dark"/>
 
----
+</td>
+</tr>
+</table>
 
-## 🏆 GitHub Trophies
+<br/>
 
-<p align="center">
+## 📊 Dashboard
 
-<img src="https://github-profile-trophy.vercel.app/?username=roshankumar161161&theme=tokyonight&no-frame=true&margin-w=10"/>
+<table align="center">
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=roshankumar161161&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F5C518&icon_color=F5C518&text_color=FFFFFF&ring_color=F5C518"/>
+</td>
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshankumar161161&layout=compact&hide_border=true&bg_color=0D1117&title_color=F5C518&text_color=FFFFFF"/>
+</td>
+</tr>
+</table>
 
-</p>
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=roshankumar161161&hide_border=true&background=0D1117&ring=F5C518&fire=F5C518&currStreakLabel=F5C518&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B8B8B"/>
+</div>
 
----
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=roshankumar161161&bg_color=0D1117&color=F5C518&line=F5C518&point=FFFFFF&area=true&area_color=F5C518&hide_border=true"/>
+</div>
 
-## 📈 Contribution Graph
+<br/>
 
-<p align="center">
+## 🐍 Contribution Snake
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=roshankumar161161&theme=tokyo-night"/>
+<div align="center">
+<img src="https://raw.githubusercontent.com/roshankumar161161/roshankumar161161/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+</div>
 
-</p>
+> Auto-generated daily via GitHub Actions in your gold theme — see setup note below.
 
----
+<br/>
 
-## 🐍 Snake Eating Contributions
+## 🏆 Trophy Case
 
-<p align="center">
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=roshankumar161161&theme=onedark&no-frame=true&row=1&column=7&title=Commits,Stars,PullRequest,Repositories,Followers"/>
+</div>
 
-<img src="https://raw.githubusercontent.com/roshankumar161161/roshankumar161161/output/github-contribution-grid-snake-dark.svg"/>
+<br/>
 
-</p>
+## 🎯 Currently
 
----
+<table align="center">
+<tr>
+<td>🔭</td><td><b>Building:</b> [Your current project — replace this]</td>
+</tr>
+<tr>
+<td>🌱</td><td><b>Learning:</b> Deep Learning architectures & System Design</td>
+</tr>
+<tr>
+<td>🤝</td><td><b>Open to:</b> Internships, collabs, and open-source contributions</td>
+</tr>
+<tr>
+<td>💬</td><td><b>Ask me about:</b> Python, ML fundamentals, React/Node</td>
+</tr>
+</table>
 
-## 🌎 Connect With Me
+<br/>
 
-<p align="center">
+<div align="center">
 
-<a href="https://www.linkedin.com/in/roshan-e-88b6392a1/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
+### 💬
 
-<a href="mailto:roshanmohana980@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
+> **"Code. Learn. Build. Repeat."**
 
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A1A,50:F5C518,100:1A1A1A&height=120&section=footer" width="100%"/>
 
----
-
-<p align="center">
-
-![](https://komarev.com/ghpvc/?username=roshankumar161161&color=blueviolet)
-
-</p>
-
----
-
-<p align="center">
-
-### 💬 Quote
-
-> **"Code. Learn. Build. Repeat. 🚀"**
-
-</p>
+</div>
