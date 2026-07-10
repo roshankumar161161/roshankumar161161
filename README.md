@@ -8,31 +8,25 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/roshan-e-88b6392a1/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-F5C518?style=for-the-badge&logo=linkedin&logoColor=1A1A1A"/>
-</a>
-
-<a href="mailto:roshanmohana980@gmail.com">
-<img src="https://img.shields.io/badge/Email-Message%20Me-F5C518?style=for-the-badge&logo=gmail&logoColor=1A1A1A"/>
-</a>
-
+<a href="https://www.linkedin.com/in/roshan-e-88b6392a1/"><img src="https://img.shields.io/badge/LinkedIn-Connect-F5C518?style=for-the-badge&logo=linkedin&logoColor=1A1A1A"/></a>
+<a href="mailto:roshanmohana980@gmail.com"><img src="https://img.shields.io/badge/Email-Message%20Me-F5C518?style=for-the-badge&logo=gmail&logoColor=1A1A1A"/></a>
 <img src="https://komarev.com/ghpvc/?username=roshankumar161161&color=F5C518&style=for-the-badge&label=PROFILE+VIEWS"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=F5C518&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=F5C518&height=3&width=100%" width="100%"/>
 
 </div>
 
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=60&section=header&text=%E2%9A%A1%20QUICK%20FACTS&fontSize=24&fontColor=F5C518&fontAlignY=70" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=F5C518&height=60&section=header&text=%E2%9A%A1%20QUICK%20FACTS&fontSize=24&fontColor=F5C518&fontAlignY=70" width="100%"/>
 
 ```yaml
 name: "Roshan Kumar E"
 role: "Full Stack Developer & AI/DS Student"
 degree: "B.Tech - Artificial Intelligence & Data Science"
-focus: ["Artificial Intelligence", "Machine Learning", "Full Stack Development"]
+focus: ["Machine Learning", "Deep Learning", "Full Stack Dev"]
 current_stack: ["Python", "Java", "C++", "React", "Node.js"]
-mission: "Building intelligent products that solve real-world problems"
-status: "🟢 Available for internships & collaborations"
+mission: "Building AI products that solve real-world problems"
+status: "🟢 Available for internships & collabs"
+```
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=F5C518&height=60&section=header&text=%F0%9F%A7%A0%20TECH%20ARSENAL&fontSize=24&fontColor=F5C518&fontAlignY=70" width="100%"/>
 
@@ -79,9 +73,9 @@ status: "🟢 Available for internships & collaborations"
 
 <table align="center">
 <tr><td>🔭</td><td><b>Building:</b> [Your current project — replace this]</td></tr>
-<tr><td>🌱</td><td><b>Learning:</b>Generative AI</td></tr>
+<tr><td>🌱</td><td><b>Learning:</b> Deep Learning architectures & System Design</td></tr>
 <tr><td>🤝</td><td><b>Open to:</b> Internships, collabs, and open-source contributions</td></tr>
-<tr><td>💬</td><td><b>Ask me about:</b> Python, Web Development, DevOps/Node</td></tr>
+<tr><td>💬</td><td><b>Ask me about:</b> Python, ML fundamentals, React/Node</td></tr>
 </table>
 
 <div align="center">
