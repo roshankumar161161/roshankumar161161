@@ -66,7 +66,9 @@ status: "🟢 Available for internships & collabs"
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=F5C518&height=60&section=header&text=%F0%9F%8F%86%20TROPHY%20CASE&fontSize=24&fontColor=F5C518&fontAlignY=70" width="100%"/>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=roshankumar161161&theme=onedark&no-frame=true&row=1&column=7&title=Commits,Stars,PullRequest,Repositories,Followers&margin-w=8&margin-h=8"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=roshankumar161161&theme=onedark&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies"/>
+
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=F5C518&height=60&section=header&text=%F0%9F%8E%AF%20CURRENTLY&fontSize=24&fontColor=F5C518&fontAlignY=70" width="100%"/>
