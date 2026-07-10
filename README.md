@@ -59,9 +59,9 @@ status: "🟢 Available for internships & collabs"
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=F5C518&height=60&section=header&text=%F0%9F%90%8D%20CONTRIBUTION%20SNAKE&fontSize=24&fontColor=F5C518&fontAlignY=70" width="100%"/>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/roshankumar161161/roshankumar161161/output/github-contribution-grid-snake-dark.svg" width="90%"/>
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/roshankumar161161/roshankumar161161/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=F5C518&height=60&section=header&text=%F0%9F%8F%86%20TROPHY%20CASE&fontSize=24&fontColor=F5C518&fontAlignY=70" width="100%"/>
 
