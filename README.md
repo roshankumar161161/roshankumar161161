@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A1A,50:F5C518,100:1A1A1A&height=200&section=header&text=ROSHAN%20KUMAR%20E&fontSize=48&fontColor=FFFFFF&animation=twinkling&fontAlignY=40&desc=AI%20%26%20Data%20Science%20%7C%20Full%20Stack%20Developer&descAlignY=62&descSize=18&descColor=F5C518" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A1A,50:F5C518,100:1A1A1A&height=220&section=header&text=ROSHAN%20KUMAR%20E&fontSize=48&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=AI%20%26%20Data%20Science%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18&descColor=F5C518" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=1200&color=F5C518&center=true&vCenter=true&width=650&lines=Building+AI+that+solves+real+problems;Full+Stack+Developer+%7C+Python+%C2%B7+Java+%C2%B7+C%2B%2B;Machine+Learning+%2B+Deep+Learning;Currently+Shipping+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1000&color=F5C518&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Building+AI+that+solves+real+problems;Full+Stack+Developer+%7C+Python+%C2%B7+Java+%C2%B7+C%2B%2B;Machine+Learning+%2B+Deep+Learning;Currently+Shipping+%F0%9F%9A%80" />
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450">
 
 <br/>
 
@@ -10,11 +12,11 @@
 <a href="mailto:roshanmohana980@gmail.com"><img src="https://img.shields.io/badge/Email-Message%20Me-F5C518?style=for-the-badge&logo=gmail&logoColor=1A1A1A"/></a>
 <img src="https://komarev.com/ghpvc/?username=roshankumar161161&color=F5C518&style=for-the-badge&label=PROFILE+VIEWS"/>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=F5C518&height=3&width=100%" width="100%"/>
+
 </div>
 
-<br/>
-
-## ⚡ Quick Facts
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=F5C518&height=60&section=header&text=%E2%9A%A1%20QUICK%20FACTS&fontSize=24&fontColor=F5C518&fontAlignY=70" width="100%"/>
 
 ```yaml
 name: "Roshan Kumar E"
@@ -23,68 +25,27 @@ degree: "B.Tech - Artificial Intelligence & Data Science"
 focus: ["Machine Learning", "Deep Learning", "Full Stack Dev"]
 current_stack: ["Python", "Java", "C++", "React", "Node.js"]
 mission: "Building AI products that solve real-world problems"
-fun_fact: "Debugs better at 2 AM than 2 PM ☕"
+status: "🟢 Available for internships & collabs"
 ```
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=F5C518&height=60&section=header&text=%F0%9F%A7%A0%20TECH%20ARSENAL&fontSize=24&fontColor=F5C518&fontAlignY=70" width="100%"/>
 
-## 🧠 Tech Arsenal
+<div align="center">
 
-<table align="center">
-<tr>
-<td align="center" width="200"><b>Languages</b></td>
-<td>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,react,tailwind,nodejs,express,mysql,mongodb,tensorflow,pytorch,git,github,vscode,figma,postman&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css&theme=dark"/>
+</div>
 
-</td>
-</tr>
-<tr>
-<td align="center"><b>Frontend</b></td>
-<td>
+<div align="center">
+<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="80">
+</div>
 
-<img src="https://skillicons.dev/icons?i=react,tailwind,html,css&theme=dark"/>
-
-</td>
-</tr>
-<tr>
-<td align="center"><b>Backend & DB</b></td>
-<td>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb&theme=dark"/>
-
-</td>
-</tr>
-<tr>
-<td align="center"><b>AI / ML</b></td>
-<td>
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn&theme=dark"/>
-
-</td>
-</tr>
-<tr>
-<td align="center"><b>Tools</b></td>
-<td>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman&theme=dark"/>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## 📊 Dashboard
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=F5C518&height=60&section=header&text=%F0%9F%93%8A%20LIVE%20DASHBOARD&fontSize=24&fontColor=F5C518&fontAlignY=70" width="100%"/>
 
 <table align="center">
 <tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=roshankumar161161&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F5C518&icon_color=F5C518&text_color=FFFFFF&ring_color=F5C518"/>
-</td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshankumar161161&layout=compact&hide_border=true&bg_color=0D1117&title_color=F5C518&text_color=FFFFFF"/>
-</td>
+<td><img src="https://github-readme-stats.vercel.app/api?username=roshankumar161161&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F5C518&icon_color=F5C518&text_color=FFFFFF&ring_color=F5C518"/></td>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshankumar161161&layout=compact&hide_border=true&bg_color=0D1117&title_color=F5C518&text_color=FFFFFF"/></td>
 </tr>
 </table>
 
@@ -93,54 +54,37 @@ fun_fact: "Debugs better at 2 AM than 2 PM ☕"
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=roshankumar161161&bg_color=0D1117&color=F5C518&line=F5C518&point=FFFFFF&area=true&area_color=F5C518&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=roshankumar161161&bg_color=0D1117&color=F5C518&line=F5C518&point=FFFFFF&area=true&area_color=F5C500&hide_border=true"/>
 </div>
 
-<br/>
-
-## 🐍 Contribution Snake
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=F5C518&height=60&section=header&text=%F0%9F%90%8D%20CONTRIBUTION%20SNAKE&fontSize=24&fontColor=F5C518&fontAlignY=70" width="100%"/>
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/roshankumar161161/roshankumar161161/output/github-contribution-grid-snake-dark.svg" width="90%"/>
 </div>
 
-> Auto-generated daily via GitHub Actions in your gold theme — see setup note below.
-
-<br/>
-
-## 🏆 Trophy Case
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=F5C518&height=60&section=header&text=%F0%9F%8F%86%20TROPHY%20CASE&fontSize=24&fontColor=F5C518&fontAlignY=70" width="100%"/>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=roshankumar161161&theme=onedark&no-frame=true&row=1&column=7&title=Commits,Stars,PullRequest,Repositories,Followers"/>
+<img src="https://github-profile-trophy.vercel.app/?username=roshankumar161161&theme=onedark&no-frame=true&row=1&column=7&title=Commits,Stars,PullRequest,Repositories,Followers&margin-w=8&margin-h=8"/>
 </div>
 
-<br/>
-
-## 🎯 Currently
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=F5C518&height=60&section=header&text=%F0%9F%8E%AF%20CURRENTLY&fontSize=24&fontColor=F5C518&fontAlignY=70" width="100%"/>
 
 <table align="center">
-<tr>
-<td>🔭</td><td><b>Building:</b> [Your current project — replace this]</td>
-</tr>
-<tr>
-<td>🌱</td><td><b>Learning:</b> Deep Learning architectures & System Design</td>
-</tr>
-<tr>
-<td>🤝</td><td><b>Open to:</b> Internships, collabs, and open-source contributions</td>
-</tr>
-<tr>
-<td>💬</td><td><b>Ask me about:</b> Python, ML fundamentals, React/Node</td>
-</tr>
+<tr><td>🔭</td><td><b>Building:</b> [Your current project — replace this]</td></tr>
+<tr><td>🌱</td><td><b>Learning:</b> Deep Learning architectures & System Design</td></tr>
+<tr><td>🤝</td><td><b>Open to:</b> Internships, collabs, and open-source contributions</td></tr>
+<tr><td>💬</td><td><b>Ask me about:</b> Python, ML fundamentals, React/Node</td></tr>
 </table>
-
-<br/>
 
 <div align="center">
 
-### 💬
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
 
+### 💬
 > **"Code. Learn. Build. Repeat."**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A1A,50:F5C518,100:1A1A1A&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A1A,50:F5C518,100:1A1A1A&height=150&section=footer" width="100%"/>
 
 </div>
