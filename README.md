@@ -37,7 +37,7 @@ status: "🟢 Available for internships & collabs"
 </div>
 
 <div align="center">
-<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="80">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=F5C518&height=3&width=100%" width="70%">
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=F5C518&height=60&section=header&text=%F0%9F%93%8A%20LIVE%20DASHBOARD&fontSize=24&fontColor=F5C518&fontAlignY=70" width="100%"/>
@@ -80,7 +80,7 @@ status: "🟢 Available for internships & collabs"
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=F5C518&height=3&width=100%" width="50%">
 
 ### 💬
 > **"Code. Learn. Build. Repeat."**
