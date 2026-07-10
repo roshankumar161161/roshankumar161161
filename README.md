@@ -73,9 +73,9 @@ status: "🟢 Available for internships & collabs"
 
 <table align="center">
 <tr><td>🔭</td><td><b>Building:</b> [Your current project — replace this]</td></tr>
-<tr><td>🌱</td><td><b>Learning:</b> Deep Learning architectures & System Design</td></tr>
+<tr><td>🌱</td><td><b>Learning:</b>Generative AI</td></tr>
 <tr><td>🤝</td><td><b>Open to:</b> Internships, collabs, and open-source contributions</td></tr>
-<tr><td>💬</td><td><b>Ask me about:</b> Python, ML fundamentals, React/Node</td></tr>
+<tr><td>💬</td><td><b>Ask me about:</b> Python, Web Development, DevOps/Node</td></tr>
 </table>
 
 <div align="center">
