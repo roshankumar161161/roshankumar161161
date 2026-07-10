@@ -69,10 +69,10 @@ status: "🟢 Available for internships & collabs"
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=F5C518&height=60&section=header&text=%F0%9F%8E%AF%20CURRENTLY&fontSize=24&fontColor=F5C518&fontAlignY=70" width="100%"/>
 
 <table align="center">
-<tr><td>🔭</td><td><b>Building:</b> [Your current project — replace this]</td></tr>
-<tr><td>🌱</td><td><b>Learning:</b> Deep Learning architectures & System Design</td></tr>
+<tr><td>🔭</td><td><b>Building:</b> Featured Projects</td></tr>
+<tr><td>🌱</td><td><b>Learning:</b> Generative AI</td></tr>
 <tr><td>🤝</td><td><b>Open to:</b> Internships, collabs, and open-source contributions</td></tr>
-<tr><td>💬</td><td><b>Ask me about:</b> Python, ML fundamentals, React/Node</td></tr>
+<tr><td>💬</td><td><b>Ask me about:</b> Python, Web Development</td></tr>
 </table>
 
 <div align="center">
