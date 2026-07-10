@@ -40,15 +40,9 @@ status: "🟢 Available for internships & collabs"
 <img src="https://capsule-render.vercel.app/api?type=rect&color=F5C518&height=3&width=100%" width="70%">
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=F5C518&height=60&section=header&text=%F0%9F%93%8A%20LIVE%20DASHBOARD&fontSize=24&fontColor=F5C518&fontAlignY=70" width="100%"/>
 
-<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=roshankumar161161&show_icons=true&theme=github_dark&hide_border=true" alt="Roshan Kumar GitHub Stats"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshankumar161161&layout=compact&theme=github_dark&hide_border=true" alt="Roshan Kumar Top Languages"/>
-
-</div>
 
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=roshankumar161161&hide_border=true&background=0D1117&ring=F5C518&fire=F5C518&currStreakLabel=F5C518&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B8B8B"/>
